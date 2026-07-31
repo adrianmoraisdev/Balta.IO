@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Abstracao": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

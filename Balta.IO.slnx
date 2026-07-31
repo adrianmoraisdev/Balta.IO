@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="Abstracao/Abstracao.csproj" Id="3981222c-0dd9-443f-a90b-9f0cf962eb4c" />
   <Project Path="Classes&amp;Objetos/Classes&amp;Objetos.csproj" />
   <Project Path="Encapsulamento/Encapsulamento.csproj" Id="7fcef690-4843-4e62-8789-0ce7133c8dcb" />
 </Solution>
