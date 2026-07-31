@@ -3,5 +3,6 @@
   <Project Path="Classes&amp;Objetos/Classes&amp;Objetos.csproj" />
   <Project Path="Encapsulamento/Encapsulamento.csproj" Id="7fcef690-4843-4e62-8789-0ce7133c8dcb" />
   <Project Path="Heranca/Heranca.csproj" Id="c0a94e21-f3fd-4953-8e3a-c2d809bf7336" />
+  <Project Path="ModificadoresDeAcesso/ModificadoresDeAcesso.csproj" Id="fd35c006-2b6a-4ef4-868b-54f1e8953576" />
   <Project Path="Polimorfismo/Polimorfismo.csproj" Id="371ed809-013b-46f9-8503-c5fddd86676c" />
 </Solution>

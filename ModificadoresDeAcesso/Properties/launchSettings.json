@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ModificadoresDeAcesso": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
