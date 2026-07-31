@@ -26,12 +26,23 @@ namespace Heranca
         class PagamentoBoleto : Pagamento
         {
             //Propriedades
-            string CodigoBarras;
+            public string CodigoBarras;
 
             //Métodos
             public void Pagar()
             {
 
+            }
+        }
+
+        class PagamentoCartao : Pagamento
+        {
+            //Propriedades
+            public string NumeroCartao;
+
+            //Métodos
+            public void Pagar()
+            {
             }
         }
     }
