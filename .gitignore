@@ -1,0 +1,58 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build
+[Bb]in/
+[Oo]bj/
+
+# Rider
+.idea/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# NuGet
+packages/
+*.nupkg
+
+# Publish
+publish/
+
+# Test Results
+TestResults/
+
+# Entity Framework
+*.dbmdl
+
+# IIS Express
+.vs/
+iisexpress/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# JetBrains
+_ReSharper*/
+*.DotSettings.user
+
+# Azure
+*.azurePubxml
+
+# Secrets
+appsettings.Development.json
+secrets.json
+
+# Temporary files
+*.tmp
+*.cache
