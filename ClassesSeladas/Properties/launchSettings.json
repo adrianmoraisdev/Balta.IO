@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ClassesSeladas": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

@@ -2,6 +2,7 @@
   <Project Path="Abstracao/Abstracao.csproj" Id="3981222c-0dd9-443f-a90b-9f0cf962eb4c" />
   <Project Path="Classes&amp;Objetos/Classes&amp;Objetos.csproj" />
   <Project Path="ClassesEstaticas/ClassesEstaticas.csproj" Id="ab52f040-c253-42b1-ab47-bed1bf93e22f" />
+  <Project Path="ClassesSeladas/ClassesSeladas.csproj" Id="72fc7e85-e786-4a12-90e3-f0004f6feaa2" />
   <Project Path="Encapsulamento/Encapsulamento.csproj" Id="7fcef690-4843-4e62-8789-0ce7133c8dcb" />
   <Project Path="Heranca/Heranca.csproj" Id="c0a94e21-f3fd-4953-8e3a-c2d809bf7336" />
   <Project Path="Metodos/Metodos.csproj" Id="63ff47ad-46b7-4793-a681-929d7d52e134" />
