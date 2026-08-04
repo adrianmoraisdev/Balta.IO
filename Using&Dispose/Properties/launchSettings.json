@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Using&Dispose": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

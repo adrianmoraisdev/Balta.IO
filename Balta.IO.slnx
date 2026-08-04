@@ -8,4 +8,5 @@
   <Project Path="Polimorfismo/Polimorfismo.csproj" Id="371ed809-013b-46f9-8503-c5fddd86676c" />
   <Project Path="Propriedades/Propriedades.csproj" Id="0c8f9304-9577-48ba-812d-c885a68765a4" />
   <Project Path="TiposComplexos/TiposComplexos.csproj" Id="51777b67-3ff5-42f0-9639-d1f90251db45" />
+  <Project Path="Using&amp;Dispose/Using&amp;Dispose.csproj" Id="32181578-51ff-4e0a-9495-cbbec3331a1c" />
 </Solution>
