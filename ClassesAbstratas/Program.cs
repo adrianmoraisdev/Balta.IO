@@ -6,7 +6,6 @@ namespace ClassesAbstratas
     {
         static void Main(string[] args)
         {
-            var pagamento = new Pagamento();
 
         }
     }

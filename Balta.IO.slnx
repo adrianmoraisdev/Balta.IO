@@ -1,23 +1,28 @@
 <Solution>
-  <Project Path="Abstracao/Abstracao.csproj" Id="3981222c-0dd9-443f-a90b-9f0cf962eb4c" />
-  <Project Path="Classes&amp;Objetos/Classes&amp;Objetos.csproj" />
-  <Project Path="ClassesAbstratas/ClassesAbstratas.csproj" Id="10483509-f85b-4523-998c-6fcd12f24aa8" />
-  <Project Path="ClassesEstaticas/ClassesEstaticas.csproj" Id="ab52f040-c253-42b1-ab47-bed1bf93e22f" />
-  <Project Path="ClassesSeladas/ClassesSeladas.csproj" Id="72fc7e85-e786-4a12-90e3-f0004f6feaa2" />
-  <Project Path="ComparandoObjetos/ComparandoObjetos.csproj" Id="7f18a185-2933-436e-9d63-7d5298c40d2c" />
-  <Project Path="Delegates/Delegates.csproj" Id="078991a4-cdc4-4e0f-abac-8ea0afb0f167" />
-  <Project Path="Encapsulamento/Encapsulamento.csproj" Id="7fcef690-4843-4e62-8789-0ce7133c8dcb" />
-  <Project Path="Events/Events.csproj" Id="f5ea0d14-3835-4b13-a481-8f66ac6e1972" />
-  <Project Path="Generics/Generics.csproj" Id="4a569609-9912-4f44-8ab1-96768fc2c151" />
-  <Project Path="Heranca/Heranca.csproj" Id="c0a94e21-f3fd-4953-8e3a-c2d809bf7336" />
-  <Project Path="Interfaces/Interfaces.csproj" Id="d1957bb4-d43e-4c68-9ab8-fdb817df0553" />
-  <Project Path="Listas/Listas.csproj" Id="ba9fae31-effc-4127-ad49-2cdc8386f568" />
-  <Project Path="Metodos/Metodos.csproj" Id="63ff47ad-46b7-4793-a681-929d7d52e134" />
-  <Project Path="ModificadoresDeAcesso/ModificadoresDeAcesso.csproj" Id="fd35c006-2b6a-4ef4-868b-54f1e8953576" />
-  <Project Path="PartialClass/PartialClass.csproj" Id="ee93ee26-8af6-4f65-9d56-f98a9ed88c14" />
-  <Project Path="Polimorfismo/Polimorfismo.csproj" Id="371ed809-013b-46f9-8503-c5fddd86676c" />
-  <Project Path="Propriedades/Propriedades.csproj" Id="0c8f9304-9577-48ba-812d-c885a68765a4" />
-  <Project Path="TiposComplexos/TiposComplexos.csproj" Id="51777b67-3ff5-42f0-9639-d1f90251db45" />
-  <Project Path="UpCastEDownCast/UpCastEDownCast.csproj" Id="df043e63-a0e5-4892-a9fe-cfc77cac06ba" />
-  <Project Path="Using&amp;Dispose/Using&amp;Dispose.csproj" Id="32181578-51ff-4e0a-9495-cbbec3331a1c" />
+  <Folder Name="/Content/">
+    <Project Path="Abstracao/Abstracao.csproj" Id="3981222c-0dd9-443f-a90b-9f0cf962eb4c" />
+    <Project Path="Classes&amp;Objetos/Classes&amp;Objetos.csproj" />
+    <Project Path="ClassesAbstratas/ClassesAbstratas.csproj" Id="10483509-f85b-4523-998c-6fcd12f24aa8" />
+    <Project Path="ClassesEstaticas/ClassesEstaticas.csproj" Id="ab52f040-c253-42b1-ab47-bed1bf93e22f" />
+    <Project Path="ClassesSeladas/ClassesSeladas.csproj" Id="72fc7e85-e786-4a12-90e3-f0004f6feaa2" />
+    <Project Path="ComparandoObjetos/ComparandoObjetos.csproj" Id="7f18a185-2933-436e-9d63-7d5298c40d2c" />
+    <Project Path="Delegates/Delegates.csproj" Id="078991a4-cdc4-4e0f-abac-8ea0afb0f167" />
+    <Project Path="Encapsulamento/Encapsulamento.csproj" Id="7fcef690-4843-4e62-8789-0ce7133c8dcb" />
+    <Project Path="Events/Events.csproj" Id="f5ea0d14-3835-4b13-a481-8f66ac6e1972" />
+    <Project Path="Generics/Generics.csproj" Id="4a569609-9912-4f44-8ab1-96768fc2c151" />
+    <Project Path="Heranca/Heranca.csproj" Id="c0a94e21-f3fd-4953-8e3a-c2d809bf7336" />
+    <Project Path="Interfaces/Interfaces.csproj" Id="d1957bb4-d43e-4c68-9ab8-fdb817df0553" />
+    <Project Path="Listas/Listas.csproj" Id="ba9fae31-effc-4127-ad49-2cdc8386f568" />
+    <Project Path="Metodos/Metodos.csproj" Id="63ff47ad-46b7-4793-a681-929d7d52e134" />
+    <Project Path="ModificadoresDeAcesso/ModificadoresDeAcesso.csproj" Id="fd35c006-2b6a-4ef4-868b-54f1e8953576" />
+    <Project Path="PartialClass/PartialClass.csproj" Id="ee93ee26-8af6-4f65-9d56-f98a9ed88c14" />
+    <Project Path="Polimorfismo/Polimorfismo.csproj" Id="371ed809-013b-46f9-8503-c5fddd86676c" />
+    <Project Path="Propriedades/Propriedades.csproj" Id="0c8f9304-9577-48ba-812d-c885a68765a4" />
+    <Project Path="TiposComplexos/TiposComplexos.csproj" Id="51777b67-3ff5-42f0-9639-d1f90251db45" />
+    <Project Path="UpCastEDownCast/UpCastEDownCast.csproj" Id="df043e63-a0e5-4892-a9fe-cfc77cac06ba" />
+    <Project Path="Using&amp;Dispose/Using&amp;Dispose.csproj" Id="32181578-51ff-4e0a-9495-cbbec3331a1c" />
+  </Folder>
+  <Folder Name="/MaoNaMassa/">
+    <Project Path="MaoNaMassa1/MaoNaMassa1.csproj" Id="fe0f4b75-7117-4f8a-a380-ce05493686c2" />
+  </Folder>
 </Solution>

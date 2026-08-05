@@ -1,0 +1,17 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace MaoNaMassa1
+{
+    public class Module
+    {
+        public Module()
+        {
+            Lectures = new List<Lecture>();
+        }
+        public int Order { get; set; }
+        public string Title { get; set; }
+        public IList<Lecture> Lectures { get; set; }
+    }
+}
